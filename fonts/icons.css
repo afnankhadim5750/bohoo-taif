@@ -1,0 +1,25 @@
+@font-face{font-family:'bootstrap-icons';src:url('bootstrap-icons.woff2') format('woff2');font-weight:normal;font-style:normal;font-display:block;}
+.bi::before,.bi{display:inline-block;font-family:'bootstrap-icons'!important;font-style:normal;font-weight:normal!important;font-variant:normal;text-transform:none;line-height:1;vertical-align:-.125em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.bi-list::before{content:"\f479"}
+.bi-x::before{content:"\f62a"}
+.bi-geo-alt::before{content:"\f3e8"}
+.bi-telephone::before{content:"\f5c1"}
+.bi-instagram::before{content:"\f437"}
+.bi-star-fill::before{content:"\f586"}
+.bi-clock::before{content:"\f293"}
+.bi-people::before{content:"\f4d0"}
+.bi-cup-hot::before{content:"\f7eb"}
+.bi-flower1::before{content:"\f3cd"}
+.bi-check-circle::before{content:"\f26b"}
+.bi-info-circle::before{content:"\f431"}
+.bi-egg-fried::before{content:"\f312"}
+.bi-globe::before{content:"\f3ee"}
+.bi-emoji-smile::before{content:"\f327"}
+.bi-sunrise::before{content:"\f5a5"}
+.bi-chevron-down::before{content:"\f282"}
+.bi-chevron-left::before{content:"\f284"}
+.bi-chevron-right::before{content:"\f285"}
+.bi-x-lg::before{content:"\f659"}
+.bi-box-arrow-up-right::before{content:"\f1c5"}
+.bi-envelope::before{content:"\f32f"}
+.bi-send::before{content:"\f6c0"}
